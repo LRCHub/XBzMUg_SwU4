@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Bad End",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-15T04:08:09.204439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad ∞ End ∞ Night",
+      "artist": "Hitoshizuku & Yama",
+      "has_synced": true,
+      "path": "select/01_Bad_∞_End_∞_Night_Hitoshizuku_&_Yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad ∞ End ∞ Night",
+      "artist": "Hitoshizuku and Yama",
+      "has_synced": true,
+      "path": "select/02_Bad_∞_End_∞_Night_Hitoshizuku_and_Yama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad ∞ End ∞ Night feat.初音ミク、鏡音リン・レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ",
+      "artist": "ひとしずく×やま△",
+      "has_synced": false,
+      "path": "select/03_Bad_∞_End_∞_Night_feat.初音ミク、鏡音リン・レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ_ひとしずく×やま△.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pior Versão (Bad End Friends)",
+      "artist": "Okabe",
+      "has_synced": true,
+      "path": "select/04_Pior_Versão_(Bad_End_Friends)_Okabe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad ∞ End ∞ Night",
+      "artist": "ひとしずく×やま△ feat. 初音ミク、鏡音リン・レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ",
+      "has_synced": false,
+      "path": "select/05_Bad_∞_End_∞_Night_ひとしずく×やま△_feat._初音ミク、鏡音リン・レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad ∞ End ∞ Night",
+      "artist": "ひとしずく; やま△; いかさん",
+      "has_synced": false,
+      "path": "select/06_Bad_∞_End_∞_Night_ひとしずく;_やま△;_いかさん.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad ∞ End ∞ Night",
+      "artist": "ひとしずく×やま△ feat. 初音ミク、鏡音リン・レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ",
+      "has_synced": false,
+      "path": "select/07_Bad_∞_End_∞_Night_ひとしずく×やま△_feat._初音ミク、鏡音リン・レン、巡音ルカ、KAITO、MEIKO、GUMI、神威がくぽ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad End Night",
+      "artist": "Hitoshizuku and Yama",
+      "has_synced": true,
+      "path": "select/08_Bad_End_Night_Hitoshizuku_and_Yama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad ∞ End ∞ Night",
+      "artist": "ROYALE5",
+      "has_synced": false,
+      "path": "select/09_Bad_∞_End_∞_Night_ROYALE5.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad End Theater - True End Ver. (feat. Eleanor Forte)",
+      "artist": "NomnomNami",
+      "has_synced": true,
+      "path": "select/10_Bad_End_Theater_-_True_End_Ver._(feat._Eleanor_Forte)_NomnomNami.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BAD END DREAM",
+      "artist": "girugamesh",
+      "has_synced": true,
+      "path": "select/11_BAD_END_DREAM_girugamesh.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad End Theater - True End Ver",
+      "artist": "Nomnomnami",
+      "has_synced": true,
+      "path": "select/12_Bad_End_Theater_-_True_End_Ver_Nomnomnami.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad End Friends,Pt. 3",
+      "artist": "VMZ",
+      "has_synced": true,
+      "path": "select/13_Bad_End_Friends,Pt._3_VMZ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad End",
+      "artist": "Megami33",
+      "has_synced": true,
+      "path": "select/14_Bad_End_Megami33.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "bad end theater  true end ver",
+      "artist": "nomnomnami",
+      "has_synced": true,
+      "path": "select/15_bad_end_theater_true_end_ver_nomnomnami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad End",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_End_CLAN_QUEEN.txt"
+    }
+  ]
+}
